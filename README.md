@@ -1,6 +1,4 @@
 # 🏡 Responsive Real State Website
-## [Watch it on youtube](https://youtu.be/twRLgPsP1H0)
-### 🏡 Responsive Real State Website
 
 - Responsive Real State Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
